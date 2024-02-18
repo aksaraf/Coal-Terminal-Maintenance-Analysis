@@ -1,4 +1,4 @@
-# [Coal-Terminal-Utilization-Analysis](https://public.tableau.com/app/profile/akshay.saraf/viz/TableCalculations_16605871923360/Report)
+# [Coal-Terminal-Maintenance-Analysis](https://public.tableau.com/app/profile/akshay.saraf/viz/TableCalculations_16605871923360/Report)
 
 ## Project Overview
 The project focuses on maintenance requirements for reclaimer-type machines within a coal terminal plant. Maintenance is deemed necessary when, during the preceding month, there has been at least one 8-hour period where the average idle capacity exceeded 10%.
