@@ -32,7 +32,7 @@ In the initial data preparation phase, I performed the following tasks:
 
     After
     
-    ![Pivot table](https://github.com/aksaraf/Coal-Terminal-Utilization-Analysis/blob/51d4af07cda7596d6888091d1a685a8c4226a5d8/Images/Pivot%20Table.jpg)
+    ![Pivot table](https://github.com/aksaraf/Coal-Terminal-Maintenance-Analysis/blob/0cb772ec8cbb4e19d6963de4177b6565aaa8ccc2/Images/Pivot%20Table.jpg)
 
 ## Exploratory Data Analysis and Recommendations
 ### 1. RECLAIMER 1 (RL1)
